@@ -1,9 +1,9 @@
-##Amit Daiman, Locker Number - 375
+
 # -*- coding: utf-8 -*-
 """
 Created on Sun Dec 22 19:05:09 2019
 
-@author: ada003
+@author: amit daiman
 """
 A = [[11, 12, 13],
     [14, 15, 16],
